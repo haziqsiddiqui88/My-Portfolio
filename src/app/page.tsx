@@ -7,7 +7,7 @@ import Contact from "@/components/Contact";
 import About from "@/components/About";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import Image from "next/image";
+
 import { useEffect } from "react";
 
 export default function Home() {
