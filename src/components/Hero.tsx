@@ -10,7 +10,7 @@ const Hero = () => {
         <div className='text-[70px] sm:text-[80px]  font-bold leading-tight flex justify-center items-center'
          style={{ fontFamily: ' Serif' }}>
           <div>
-            <p data-aos='zoom-in-down'>I'm</p>
+            <p data-aos='zoom-in-down'>I&apos;m </p>
             <p  data-aos='zoom-in-down'>Muhammad Haziq</p>
             <p  data-aos='zoom-in-down'>Siddiqui</p>
           </div>

@@ -9,7 +9,7 @@ const Skills = () => {
                 <p className='text-gray-500  pt-2' style={{fontSize:'18px',fontFamily: 'serif'}}>
                     I have a solid foundation in web development, specializing in HTML, CSS & JavaScript. My 
                     experience extends to using frameworks like Next.js to create dynamic and user-friendly applications.
-                     I'm also proficient in Tailwind CSS for efficient styling and design. With a passion for learning,
+                     I&apos;m also proficient in Tailwind CSS for efficient styling and design. With a passion for learning,
                       I stay updated on the latest technologies to enhance my 
                     skills set & contribute effectively to Projects. 
                 </p>
