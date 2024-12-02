@@ -4,45 +4,45 @@ import Card from './Card'
 const data = [
     { 
         id: 0,
-        title:"Modern Calculator" ,
+        title:'Modern Calculator' ,
        
-       img:"/project-01.png" ,
-       tags: ["HTML"," CSS", "Javascript "],
+       img:'/project-01.png' ,
+       tags: ['HTML',' CSS', 'Javascript '],
     },
     { 
         id: 1,
-        title:"Profile Card" ,
+        title:'Profile Card' ,
        
-       img:"/project-02.png" ,
-       tags: ["HTML", "CSS"],
+       img:'/project-02.png' ,
+       tags: ['HTML', 'CSS'],
     },
     { 
         id: 2,
-        title: "Online Form",
+        title: 'Online Form',
       
-       img: "/project-03.png",
-       tags: ["HTML"],
+       img: '/project-03.png',
+       tags: ['HTML'],
     },
     { 
         id: 3,
-        title:"Currency Convertor" ,
+        title:'Currency Convertor' ,
        
-       img: "/project-04.png",
-       tags: ["Typescript", "Javascript"],
+       img: '/project-04.png',
+       tags: ['Typescript', 'Javascript'],
     },
     { 
         id: 4,
-        title: "Cli Number Guessing",
+        title: 'Cli Number Guessing',
        
-       img: "/project-05.png",
-       tags: ["Typescript", "Javascript"],
+       img: '/project-05.png',
+       tags: ['Typescript', 'Javascript'],
     },
     { 
         id: 5,
-        title:"Todos List" ,
+        title:'Todos List' ,
        
-       img: "/project-06.png",
-       tags: ["Typescript", "Javascript"],
+       img: '/project-06.png',
+       tags: ['Typescript', 'avascript'],
     },
 ]
 
